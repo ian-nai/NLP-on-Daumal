@@ -41,6 +41,7 @@ for f in input_files:
             if not line:
                 lines_cleaned.remove(line)
 # Save our new file as 'cleaned_text.txt'
-        with open('cleaned_beauverie.txt', 'w') as g:
+        with open('clean_sentences_' + input_files[index_num]), 'w') as g:
             for item in lines_cleaned:
                     g.write("\n" + (str(item)))
+        index_num += 1
