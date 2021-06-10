@@ -14,9 +14,9 @@ import pylab
 
 column_names = ["text", "pos", "total", "pos_unique"]
 
-input_files_full = ['beauverie.txt']
+input_files_full = ['mont_analog.txt']
 
-df = pd.read_csv('stanza_cleaned_beauverie.txt.csv', names=column_names)
+df = pd.read_csv('stanza_clean_sentences_mont_analog.txt.csv', names=column_names)
 
 print(df.text)
 
