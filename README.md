@@ -13,11 +13,8 @@ pip3 install -r requirements.txt
 This repository is a starting point for using NLP to analyze and visualize various aspects of the two novels written by René Daumal. Code may be updated and added as necessary while the project progresses.
 
 ## What This Repository Contains
-#### <span style="text-decoration: underline">CSVs</span>
+#### CSVs
 A collection of .csv files containing data gleaned from analyzing the texts using NLP. The sub-folders in this section contain data for different models that were used to process the texts, the fr_core_news_lg and fr_dep_news_trf models from spaCy and the Stanza French model from Stanford's Stanza library. There is also a folder for data used in visualizing the texts using graphs.
-
-#### Original Texts
-The original texts of Daumal's two novels: <em>La grande beuverie</em> and <em>Le Mont Analogue. Roman d'aventures alpines, non euclidiennes et symboliquement authentiques</em>.
 
 #### Pickle Files
 These are pickled NLP models (using the fr_dep_news_trf spaCy model) of the original texts, broken up into smaller chunks to avoid file size limitations.
@@ -33,8 +30,8 @@ The Python files contained here perform the NLP used to generate the CSVs and vi
 * make_pickles.py - Create the pickle files for uploading to GitHub.
 * visualizations.py - Code to generate various visualizations of textual data using matplotlib.
 
-#### Tokenized Sentences
-These folders contain text files of the texts tokenized into sentences.
+#### Text Files
+Contains the original texts of Daumal's two novels: <em>La grande beuverie</em> and <em>Le Mont Analogue. Roman d'aventures alpines, non euclidiennes et symboliquement authentiques</em>, as well as text files of the novels tokenized into sentences with stopwords removed.
 
 #### Visualizations
 Visualizations of textual data in PNG and interactive HTML/JS format. This folder may be added to in the future.
