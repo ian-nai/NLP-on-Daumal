@@ -1,7 +1,7 @@
 # NLP-on-Daumal
 NLP on novels by René Daumal. This repository is an outgrowth of the [Non-English NLP Tutorial](https://github.com/ian-nai/Non-English-NLP-Tutorial).
 <p align="center">
-<img src="https://ndbooks.imgix.net/Daumal_Rene.jpg?auto=format&ch=Width,DPR&fit=crop&h=500&q=95&sat=-100&w=500" height="450" width="450"/>
+<img src="https://ndbooks.imgix.net/Daumal_Rene.jpg?auto=format&ch=Width,DPR&fit=crop&h=500&q=95&sat=-100&w=500" height="300" width="300"/>
 </p>
 ## Getting Started
 Install required dependencies:
