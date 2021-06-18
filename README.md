@@ -1,7 +1,7 @@
 # NLP-on-Daumal
 NLP on novels by René Daumal. This repository is an outgrowth of the [Non-English NLP Tutorial](https://github.com/ian-nai/Non-English-NLP-Tutorial).
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Charles_P%C3%A9guy_by_Eug%C3%A8ne_Pirou.jpg" height="426" width="272"/>
+<img src="https://ndbooks.imgix.net/Daumal_Rene.jpg?auto=format&ch=Width,DPR&fit=crop&h=500&q=95&sat=-100&w=500" height="450" width="450"/>
 </p>
 ## Getting Started
 Install required dependencies:
