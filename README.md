@@ -3,12 +3,14 @@ NLP on novels by René Daumal. This repository is an outgrowth of the [Non-Engli
 <p align="center">
 <img src="https://ndbooks.imgix.net/Daumal_Rene.jpg?auto=format&ch=Width,DPR&fit=crop&h=500&q=95&sat=-100&w=500" height="300" width="300"/>
 </p>
+
 ## Getting Started
 Install required dependencies:
 
 ```
 pip3 install -r requirements.txt
 ```
+
 ## Scope
 This repository is a starting point for using NLP to analyze and visualize various aspects of the two novels written by René Daumal. Code may be updated and added as necessary while the project progresses.
 
